@@ -1,0 +1,11 @@
+Country of origin,Big star,Genre,target
+US,yes,scifi,1
+US,no,comedy,0
+US,yes,comedy,1
+Europe,no,comedy,1
+Europe,yes,scifi,0
+Europe,yes,romance,0
+Rest,yes,comedy,0
+Rest,no,scifi,0
+Europe,yes,comedy,1
+US,yes,comedy,1
